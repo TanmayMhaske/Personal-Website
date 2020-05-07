@@ -91,6 +91,60 @@ p {
   margin-left: 30px;
 }
 
+.project1 {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.project2 {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.project3 {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.project4{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.project5{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.WE1{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  /* margin-bottom: auto;
+  height: 40%; */
+}
+
+.WE2{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  /* margin-bottom: auto;
+  height: 40%; */
+}
+
+/* .project-description1{
+  width: 50%;
+    margin: 50px auto 70px auto;
+      text-align: left;
+}
+.project-description2{
+  width: 50%;
+    margin: 50px auto 70px auto;
+      text-align: left;
+} */
+
+
+
 hr {
   border:dotted #EAF6F6 6px;
   border-bottom: none;
