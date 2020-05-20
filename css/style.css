@@ -13,7 +13,7 @@ h1 {
 }
 
 h2 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Montserrat-Black', sans-serif;
   font-size: 2.5rem;
   color: #66BFBF;
   font-weight: normal;
@@ -23,6 +23,23 @@ h2 {
 h3 {
   font-family: 'Montserrat', sans-serif;
   color: #11999E;
+}
+
+a {
+  color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+
+
+}
+a:hover{
+  color:#eaf6f6;
+}
+
+p {
+  line-height: 2;
+color: grey;
 }
 
 .top-container {
@@ -52,17 +69,6 @@ padding: 50px 0 20px;
   bottom: 300px;
 }
 
-a {
-  color: #11999E;
-    font-family: 'Montserrat', sans-serif;
-    margin: 10px 20px;
-    text-decoration: none;
-
-
-}
-a:hover{
-  color:#eaf6f6;
-}
 
 /* .programmer {
   font-weight: normal;
@@ -75,9 +81,6 @@ a:hover{
   text-align: left;
 }
 
-p {
-  line-height: 2;
-}
 
 .code-img {
   width: 25%;
@@ -126,12 +129,18 @@ p {
 
 .WE2{
   width: 25%;
+  float: right;
+  margin-left: 30px;
+  /* margin-bottom: auto;
+  height: 40%; */
+}
+.WE3{
+  width: 25%;
   float: left;
   margin-right: 30px;
   /* margin-bottom: auto;
   height: 40%; */
 }
-
 /* .project-description1{
   width: 50%;
     margin: 50px auto 70px auto;
@@ -213,4 +222,9 @@ margin: 40px auto 60px;
 .intro {
   width: 30%;
   margin: auto;
+
+
+}
+td{
+  padding: 0 80px 0 0;
 }
